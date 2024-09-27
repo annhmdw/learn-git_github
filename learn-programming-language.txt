@@ -1,11 +1,8 @@
 Programming language that i want to learn :
 - C++
-- Python
 - Rust
 - R
+- Assembly
 - Java
-- PHP
-  ^ Laravel
-  ^ Codeigniter
 - C
 - Assembly
