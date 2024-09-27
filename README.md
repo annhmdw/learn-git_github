@@ -1,2 +1,2 @@
-# learn-git_github
+## Learn Git & Github
 This is a repository for learning git and github.
