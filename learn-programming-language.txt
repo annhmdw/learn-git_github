@@ -4,3 +4,8 @@ Programming language that i want to learn :
 - Rust
 - R
 - Java
+- PHP
+  ^ Laravel
+  ^ Codeigniter
+- C
+- Assembly
