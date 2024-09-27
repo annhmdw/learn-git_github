@@ -1,6 +1,6 @@
 Programming language that i want to learn :
 - C++
-- Python
 - Rust
 - R
-- Java
+- Assembly
+- Machine Language
