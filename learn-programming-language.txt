@@ -3,4 +3,6 @@ Programming language that i want to learn :
 - Rust
 - R
 - Assembly
-- Machine Language
+- Java
+- C
+- Assembly
